@@ -13,3 +13,5 @@ Used without profit
 - Python 3
 - pygame vers 1.9.6
 
+## Captures:
+https://github.com/TheLast20/Pygame_Snake_Pygame/blob/master/captures/Game%20Screen.png
