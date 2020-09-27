@@ -8,3 +8,8 @@ The music is from the YouTuber Niko's 8BitStereo
 (https://youtu.be/9qI7GZcbC6Q)
 
 Used without profit
+
+## Requirements:
+- Python 3
+- pygame vers 1.9.6
+
